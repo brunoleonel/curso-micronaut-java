@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: broker
+  server:
+    port: 8080
+hello:
+  controller:
+    path: "/hello"
